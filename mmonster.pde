@@ -2,7 +2,7 @@
 void setup() {
     size(600, 600);
     stroke(255);
-    strokeWeight(1);
+    strokeWeight(5);
     background(192, 64, 0);
    }
  
