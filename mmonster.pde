@@ -1,6 +1,12 @@
-size(600,700);
-background(255);
-fill(32,211,54);
-rect(210,190,200,200);
-ellipseMode(CENTER);
-ellipse(300, 100, 200, 200);
+
+void setup() {
+    size(600, 600);
+    stroke(255);
+    strokeWeight(1);
+    background(192, 64, 0);
+   }
+ 
+void draw() {
+   point(mouseX, mouseY);
+  
+   }
